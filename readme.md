@@ -1,2 +1,2 @@
 # Java Problems & Practices 
-- basic problems, OO
+- basic problems, assesments
